@@ -36,7 +36,7 @@ const cb = img => {
   // IO options
   const options = {
     // root: null,
-    rootMargin: '-100px 0px -100px 0px', // default "top right bottom left" - "0px 0px 0px 0px"
+    rootMargin: '-100px 0px 10px 0px', // default "top right bottom left" - "0px 0px 0px 0px"
     threshold: 1.0, // default threshold of 0.0. -> might be list of values
   }
 
